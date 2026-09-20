@@ -64,7 +64,7 @@ I'm particularly interested in:
 
 ### Frontend
 
-`React` `Next.js` `Angular` `Redux` `Electron`
+`React` `Next.js` `Redux` `Electron`
 
 ### Cloud & DevOps
 
