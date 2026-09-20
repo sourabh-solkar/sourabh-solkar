@@ -1,184 +1,35 @@
 # Hi, I'm Sourabh 👋
 
-### Senior Full Stack Developer → Agentic AI Engineer
+**Senior Full Stack Developer | Building AI Agents & AI-powered applications**
 
-I build production-oriented AI applications by combining **full-stack engineering with modern LLM and agent architectures**.
+I'm a full-stack developer with 7+ years of experience building web and cloud applications.
+Currently, I'm focused on **Generative AI, Agentic AI, and AI application development**.
 
-Currently exploring and building with:
+### Currently working with
 
-* 🤖 **AI Agents & Agentic Workflows**
-* 🧠 **LangGraph & LangChain**
-* 🔌 **Model Context Protocol (MCP)**
-* 🔍 **RAG & Context Engineering**
-* 🛠️ **Tool Calling & AI Workflows**
-* 🛡️ **Guardrails & PII Protection**
-* 📊 **LLM Observability & Evaluation**
-* ⚡ **Streaming & Real-time AI applications**
-* ☁️ **AWS, Databricks & Cloud-native systems**
+* LangChain & LangGraph
+* MCP
+* RAG
+* AI Agents & Tool Calling
+* Python & FastAPI
+* React & Node.js
+* AWS & Databricks
+* Langfuse & LLM evaluation
 
----
+### What I'm exploring
 
-## 🚀 What I'm Working On
+Building practical AI systems with:
 
-I'm currently focused on building AI systems that go beyond simple chatbots.
+**LLMs → Agents → Tools → APIs → Real applications**
 
-My focus areas include:
+I'm particularly interested in making AI applications reliable, observable, and useful in real-world scenarios.
 
-```text
-User
- ↓
-LLM
- ↓
-Agent / Orchestrator
- ↓
-Tools / MCP
- ↓
-APIs / Databases / External Systems
- ↓
-Result
-```
+### Background
 
-I'm particularly interested in:
+**Full Stack:** React · Node.js · Python · GraphQL · PostgreSQL · MongoDB · AWS · Docker
 
-* Multi-agent systems
-* Tool-using AI agents
-* MCP-based architectures
-* Context management
-* Long-term memory
-* Human-in-the-loop workflows
-* AI security & guardrails
-* Agent evaluation & observability
-* Production-ready AI applications
+**AI:** LangChain · LangGraph · MCP · RAG · Tool Calling · Agentic AI · Langfuse
 
----
+### Connect
 
-## 🧰 Tech Stack
-
-### AI / GenAI
-
-`LangGraph` `LangChain` `MCP` `RAG` `LLM` `Tool Calling` `Agentic AI` `Prompt Engineering`
-
-### Backend
-
-`Node.js` `Express` `Python` `FastAPI` `GraphQL` `PostgreSQL` `MongoDB` `Redis` `Kafka`
-
-### Frontend
-
-`React` `Next.js` `Redux` `Electron`
-
-### Cloud & DevOps
-
-`AWS` `Docker` `CI/CD` `Databricks` `CircleCI`
-
-### Observability
-
-`Langfuse` `LLM Evaluation` `Tracing` `Monitoring`
-
----
-
-## 🧪 AI Projects
-
-### 🤖 Agentic AI Chat Platform
-
-A production-style AI assistant built around an agentic architecture.
-
-**Architecture**
-
-`User → Triage Agent → Specialized Agent → Tools → Response`
-
-Exploring:
-
-* LangGraph multi-agent orchestration
-* Gemini / LLM integration
-* Tool calling
-* PostgreSQL memory
-* Rolling conversation summaries
-* PII middleware
-* Rate limiting
-* Human approval with LangGraph interrupts
-* Agent observability with Langfuse
-
----
-
-### 🔌 MCP Projects
-
-Building practical MCP integrations to understand how AI agents can securely interact with external tools and systems.
-
-Areas I'm exploring:
-
-* MCP servers
-* Authentication
-* Tool discovery
-* Tool execution
-* AI-driven workflows
-* Enterprise integrations
-
----
-
-### 🔍 RAG Systems
-
-Experimenting with production-oriented RAG architectures including:
-
-* Document ingestion
-* Chunking
-* Embeddings
-* Retrieval
-* Context construction
-* Re-ranking
-* LLM generation
-* Evaluation
-
----
-
-## 💻 Full Stack Background
-
-I have **7+ years of software engineering experience** building full-stack applications.
-
-My background includes:
-
-* React / Angular
-* Node.js
-* Python
-* GraphQL
-* PostgreSQL / MySQL / MongoDB
-* Kafka / Redis / Elasticsearch
-* AWS
-* Docker
-* CI/CD
-* Microservices
-* Electron
-
-I'm now applying this engineering foundation to **AI-native applications and agentic systems**.
-
----
-
-## 🎯 Current Goal
-
-> Build AI agents that are not just impressive demos, but reliable software systems.
-
-I'm particularly interested in the intersection of:
-
-**Full Stack Engineering × LLMs × Agents × Tools × Enterprise Software**
-
----
-
-## 📚 Currently Learning
-
-* Advanced LangGraph patterns
-* Agent memory & context management
-* MCP architecture
-* Multi-agent orchestration
-* LLM evaluation
-* AI security & guardrails
-* Production AI architecture
-* Agent observability
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in discussing:
-
-**AI Agents · MCP · LangGraph · LangChain · RAG · Full Stack AI · Developer Tools · Agentic Systems**
-
-If you're building something interesting in this space, feel free to connect.
+[LinkedIn](https://www.linkedin.com/in/sourabh-solkar/) · [GitHub](https://github.com/sourabh-solkar)
